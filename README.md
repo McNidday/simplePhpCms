@@ -4,7 +4,7 @@
  - Clone this repository or download 
 
 >  Your will need apache server for
->                   this oneso make sure you have xamp or mamp installed.
+>                   this one so make sure you have xamp or mamp installed.
 
  - copy cloned project to www folder when using xamp or the assigned
     folder when using mamp.
